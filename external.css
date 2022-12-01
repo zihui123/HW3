@@ -1,0 +1,27 @@
+.groove {border-style: groove;
+    block-size: 3em}
+.headline { 
+font-weight: bolder;
+color: greenyellow;
+margin-left: 20%;
+padding: .1em;
+margin-bottom: 0.2em;
+width: 50%;
+}
+.content { 
+font-weight: bolder;
+color: blue;
+margin-left: 10%;
+padding: .1em;
+margin-bottom: 0.2em;
+width: 50%;
+}
+.a1 { 
+font-weight: bolder;
+color: yellow;
+margin-left: 20%;
+padding: .1em;
+margin-bottom: 0.2em;
+width: 50%;
+}
+textarea {resize: none;}
